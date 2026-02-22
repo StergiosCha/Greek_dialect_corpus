@@ -12,7 +12,7 @@ The repository contains data collected from the web and other textual resources 
 
 ## Disclaimer
 
-This dataset is a collection of texts collected from various sources and includes texts that have been harvested from publicly available sources that have Greek dialectal text. The texts are provided **for research and educational purposes only**.
+This dataset is a collection of texts collected from various sources and also includes texts that have been harvested from publicly available sources that have Greek dialectal text. The texts are provided **for research and educational purposes only**.
 
 ## Copyright Notice
 
@@ -52,4 +52,4 @@ This dataset is released under the [CC BY-NC-SA 4.0](https://creativecommons.org
 
 ---
 
-**Disclaimer:** This dataset is intended to support reproducible research. The maintainers make no claim of ownership over the included texts and accept no liability for misuse.
+**Research Statement:** This dataset is intended to support reproducible research. The maintainers make no claim of ownership over the included texts and accept no liability for misuse.
