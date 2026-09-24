@@ -34,11 +34,12 @@ No copyright in any text is transferred, claimed or waived by the maintainers th
 To protect the privacy of individuals whose texts appear in the web-harvested data, the following measures have been applied:
 
 - **Personal names** appearing in blog posts, comments and other user-generated content have been replaced with culturally appropriate pseudonyms. Morphological case agreement (nominative, genitive, accusative, vocative) has been preserved, including dialectal forms (e.g. the Cypriot accusative in -αν).
-- **Blog author usernames** in comment attribution lines have been replaced with anonymized identifiers.
-- **URLs** linking to personal blogs and websites have been replaced with anonymized source markers (e.g. `[SRC_001]`, `[URL_0042]`).
+- **Blogger usernames and handles** have been replaced with pseudonyms, both in comment attribution lines and where bloggers refer to each other in running text, in Greek as well as Latin script. Inflection has been preserved.
+- **URLs, email addresses, blog domain names and post metadata** (publication dates and times, comment counts, author credit lines) have been removed.
+- **Blogging-platform interface text** (e.g. reply and delete buttons captured with the comments) has been removed.
 - **Public figures** (politicians, historical figures) referenced in public discourse have been kept, as their mention concerns matters of public record.
 
-The provenance mapping between source markers and original URLs is **not publicly released**. It is kept in secure storage by the maintainers for verification of published results and for handling removal requests. Access may be granted only to researchers, for verification purposes, under a written agreement that prohibits redistribution and re-identification.
+A record of the original sources and of the pseudonym mapping is **not publicly released**. It is kept in secure storage by the maintainers for verification of published results and for handling removal requests. Access may be granted only to researchers, for verification purposes, under a written agreement that prohibits redistribution and re-identification.
 
 ## Terms of Use
 
